@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenisha987" alt="jenisha987" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, ReactJS**
 
 - 📫 How to reach me **jensastha987@gmail.com**
 
